@@ -25,11 +25,11 @@ def sqroot(x):
         x=0.5*(x+b/x)
     print("Square root of the number:",x)
 x=int(input())
-sqroot(x)
+sqroot(x) 
 ```
 
 ## Output:
-![gcd of two number](1.png)
+![SQRT](1.png)
 
 
 ## Result:
